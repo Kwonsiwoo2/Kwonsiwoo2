@@ -41,6 +41,7 @@ Languages:
 
 🌐 Java – For higher-level application development
 
+
 🖥️ Tools & Platforms
 
 Microcontrollers: ARM Cortex-M, AVR, ESP32
@@ -50,6 +51,7 @@ IDEs: VSCode, Keil, STM32CubeIDE
 Version Control: Git, GitHub
 
 Debugging Tools: JTAG, SWD, Logic Analyzers
+
 
 💡 Interests
 
