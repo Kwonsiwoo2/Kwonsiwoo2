@@ -21,6 +21,7 @@ I’m an aspiring Embedded Systems Developer passionate about low-level programm
 🚀 Exploring embedded development and real-time systems
 🛠️ Tinkering with microcontrollers and hardware
 📖 Continuously learning and improving my coding skills
+
 🛠️ Skills & Technologies
 Languages:
 
