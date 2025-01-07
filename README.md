@@ -14,33 +14,14 @@
 
 ### 🛠️ **기술 스택**
 
-**언어**
-- ![C](https://img.shields.io/badge/-C-blue)
-- ![C++](https://img.shields.io/badge/-C++-blue)
-- ![Python](https://img.shields.io/badge/-Python-yellow)
-- ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey)
-- ![Java](https://img.shields.io/badge/-Java-orange)
-
-**운영체제**
-- ![Windows 10](https://img.shields.io/badge/-Windows_10-blue)
-- ![Linux](https://img.shields.io/badge/-Linux-orange)
-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red)
-
-**AP 및 MCU**
-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-green)
-- ![STM32](https://img.shields.io/badge/-STM32-blue)
-- ![ATmega128A](https://img.shields.io/badge/-ATmega128A-green)
-- ![ESP32](https://img.shields.io/badge/-ESP32-orange)
-
-**IDE**
-- ![VSCode](https://img.shields.io/badge/-VSCode-blue)
-- ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-blue)
-- ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-green)
-- ![Keil](https://img.shields.io/badge/-Keil-orange)
-
-**기타**
-- ![OpenCV](https://img.shields.io/badge/-OpenCV-lightblue)
-- ![ROS](https://img.shields.io/badge/-ROS-black)
+| **분류**       | **기술**                                                                 |
+|-----------------|-------------------------------------------------------------------------|
+| **언어**       | ![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey) ![Java](https://img.shields.io/badge/-Java-orange) |
+| **운영체제**   | ![Windows 10](https://img.shields.io/badge/-Windows_10-blue) ![Linux](https://img.shields.io/badge/-Linux-orange) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red) |
+| **AP 및 MCU**  | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-green) ![Jetson Nano](https://img.shields.io/badge/-Jetson_Nano-green) ![ATmega128A](https://img.shields.io/badge/-ATmega128A-green) ![Arduino](https://img.shields.io/badge/-Arduino-blue) ![STM32](https://img.shields.io/badge/-STM32-blue) |
+| **IDE**        | ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple) ![VSCode](https://img.shields.io/badge/-VSCode-blue) ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-green) ![Spyder](https://img.shields.io/badge/-Spyder-red) ![STM32CubeIDE](https://img.shields.io/badge/-CubeIDE-blue) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange) ![Octave](https://img.shields.io/badge/-Octave-lightblue) |
+| **DB**         | ![Apache](https://img.shields.io/badge/-Apache-red) ![MariaDB](https://img.shields.io/badge/-MariaDB-blue) ![MySQL](https://img.shields.io/badge/-MySQL-blue) |
+| **기타**       | ![OpenCV](https://img.shields.io/badge/-OpenCV-lightblue) ![Qt](https://img.shields.io/badge/-Qt-green) ![ROS](https://img.shields.io/badge/-ROS-black) |
 
 ---
 
