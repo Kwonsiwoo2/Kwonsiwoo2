@@ -21,13 +21,13 @@
 
 | 이름 | 설명 | 링크 |
 |------|------|------|
-| **스마트 세탁기: 자동 세제 조절 시스템** | 세탁물의 양에 따라 자동으로 세제를 조절하는 시스템 | [Smart Washing Machine](https://github.com/Kwonsiwoo2/Smart_WashingMachine) |
-| **AVR을 활용한 가정용 세탁기** | AVR을 이용해 가정용 세탁기 제어 | [AVR Washing Machine](https://github.com/Kwonsiwoo2/AVR_WashingMachine) |
-| **AI와 OpenCV를 활용한 칠교 놀이** | 칠교판을 인식하고 맞춤형 힌트를 제공하는 시스템 | 진행 중 |
-| **표지판 인식 및 속도 제어** | OpenCV와 AI를 이용한 표지판 인식 시스템 | 진행 중 |
-| **AI를 활용한 산불 감지 시스템** | 실시간 AI를 활용한 산불 조기 감지 | [2024 ICT Project](https://github.com/Kwonsiwoo2/2024_ICT_Project) |
-| **헬스 케어 시스템** | MCU-KIT을 활용한 건강 관리 시스템 | [Health Care System](https://github.com/Kwonsiwoo2/HealthCareSystem) |
-| **ROS 기반 자율주행 시스템** | ROS를 이용해 효율적인 자율주행 구현 | [Intelligent ROS Transportation System](https://github.com/Kwonsiwoo2/Intelligent_ROS_Transportation_System) |
+| **스마트 도어락** | Arduino Uno와 서보 모터를 이용하여 비밀번호 인증 및 도어락 제어 시스템을 구현한 프로젝트 | [Smart Doorlock](https://github.com/Kwonsiwoo2/DoorLock) |
+| **게시판 웹사이트** | PHP와 MySQL을 사용하여 회원가입, 로그인, 공지사항 관리 기능을 제공하는 웹사이트 프로젝트 | [Web Project](https://github.com/Kwonsiwoo2/WebServer) |
+| **스마트 선풍기** | ATmega128 기반으로 선풍기의 속도 제어 및 상태를 모니터링할 수 있는 시스템 설계 | [Smart Fan](https://github.com/Kwonsiwoo2/Fan-Project) |
+| **카메라 필터 앱** | OpenCV와 Flask를 활용하여 다양한 필터 효과를 제공하는 이미지/영상 처리 애플리케이션 | [Camera Filter App](https://github.com/Kwonsiwoo2/camera_filter_app) |
+| **AI 경비로봇** | Raspberry Pi와 YOLO 모델을 사용해 객체를 탐지하고, 자율주행 기능을 포함한 경비 로봇 구현 | [AI MiniCar](https://github.com/Kwonsiwoo2/AI_MiniCar) |
+| **스마트 어항 관리** | STM32를 활용하여 어항의 온도와 환경을 관리하는 IoT 기반 시스템 | [Fish Tank Management](https://github.com/Kwonsiwoo2/Fish_Bowl_Project) |
+| **리눅스 시스템** | Yocto와 U-Boot를 활용하여 임베디드 Linux 기반의 커스텀 시스템 설계 | [Linux System](https://github.com/Kwonsiwoo2/Linux_System) |
 
 ---
 
