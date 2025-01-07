@@ -34,4 +34,4 @@
 ### 🔗 **Connect**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Kwonsiwoo2)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your_email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ksww7010612@naver.com)
