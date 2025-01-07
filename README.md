@@ -1,6 +1,6 @@
-# 안녕하세요! 👋
+# Welcome to my Profile 👋
 
-**임베디드 시스템 개발자**
+**Embedded System Developer**
 
 ---
 
