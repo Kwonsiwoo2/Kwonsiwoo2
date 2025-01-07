@@ -31,7 +31,7 @@
 
 ---
 
-### 🔗 **연결하기**
+### 🔗 **Connect**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Kwonsiwoo2)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/%EC%8B%9C%EC%9A%B0-%EA%B6%8C-064765341/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your_email@example.com)
