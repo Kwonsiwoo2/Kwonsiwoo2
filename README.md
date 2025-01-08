@@ -21,13 +21,13 @@
 
 | 이름 | 설명 | 링크 |
 |------|------|------|
-| **스마트 도어락** | Arduino Uno와 서보 모터를 이용하여 비밀번호 인증 및 도어락 제어 시스템 | [Smart Doorlock](https://github.com/Kwonsiwoo2/DoorLock) |
+| **스마트 도어락**   | Arduino Uno와 서보 모터를 이용하여 비밀번호 인증 및 도어락 제어 시스템 | [Smart Doorlock](https://github.com/Kwonsiwoo2/DoorLock) |
 | **게시판 웹사이트** | PHP와 MySQL을 사용하여 회원가입, 로그인, 공지사항 관리 기능을 제공 | [Web Project](https://github.com/Kwonsiwoo2/WebServer) |
-| **스마트 선풍기** | ATmega128 기반으로 선풍기의 속도 제어 및 상태를 모니터링 | [Smart Fan](https://github.com/Kwonsiwoo2/Fan-Project) |
-| **카메라 필터 앱** | OpenCV와 Flask를 활용하여 다양한 필터 효과를 제공하는 이미지/영상 처리 | [Camera Filter App](https://github.com/Kwonsiwoo2/camera_filter_app) |
-| **AI 경비로봇** | Raspberry Pi와 YOLO 모델을 사용해 객체를 탐지하고, 자율주행 기능을 포함한 경비 로봇 | [AI MiniCar](https://github.com/Kwonsiwoo2/AI_MiniCar) |
-| **스마트 어항 관리** | STM32를 활용하여 어항의 온도와 환경을 관리하는 IoT 기반 시스템 | [Fish Tank Management](https://github.com/Kwonsiwoo2/Fish_Bowl_Project) |
-| **리눅스 시스템** | Yocto와 U-Boot를 활용하여 임베디드 Linux 기반의 커스텀 시스템 | [Linux System](https://github.com/Kwonsiwoo2/Linux_System) |
+| **스마트 선풍기**   | ATmega128 기반으로 선풍기의 속도 제어 및 상태를 모니터링 | [Smart Fan](https://github.com/Kwonsiwoo2/Fan-Project) |
+| **카메라 필터 앱**  | OpenCV와 Flask를 활용하여 다양한 필터 효과를 제공하는 이미지/영상 처리 | [Camera Filter App](https://github.com/Kwonsiwoo2/camera_filter_app) |
+| **AI 경비로봇**     | Raspberry Pi와 YOLO 모델을 사용해 객체를 탐지하고, 자율주행 기능을 포함한 경비 로봇 | [AI MiniCar](https://github.com/Kwonsiwoo2/AI_MiniCar) |
+| **스마트 어항 관리**| STM32를 활용하여 어항의 온도와 환경을 관리하는 IoT 기반 시스템 | [Fish Tank Management](https://github.com/Kwonsiwoo2/Fish_Bowl_Project) |
+| **리눅스 시스템**   | Yocto와 U-Boot를 활용하여 임베디드 Linux 기반의 커스텀 시스템 | [Linux System](https://github.com/Kwonsiwoo2/Linux_System) |
 
 ---
 
